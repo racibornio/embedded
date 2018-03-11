@@ -132,17 +132,5 @@ public class Main {
             }
         }
 
-
-
-        /*
-        table.countHour8to9(212, 4, 4, 33, 22, 11, 11, 11, 11, 11);
-        table.getHour8to9();
-
-        table.countHour9to10(322, 4, 3, 55, 66, 77, 88, 11, 11, 1);
-        table.getHour9to10();
-
-        table.countHour10to11(1, 2, 4, 5, 6, 8, 9, 80, 88, 65);
-        table.getHour10to11();
-        */
     }
 }
